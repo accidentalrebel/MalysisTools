@@ -1,0 +1,2 @@
+* input.txt contains shellcode from:
+** https://www.exploit-db.com/exploits/24318
